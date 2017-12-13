@@ -14,7 +14,6 @@ class Model extends \Phalcon\Mvc\Model {
 
 	}
 	public function initialize() {
-	
 	}
 
 	public function getPk() {
