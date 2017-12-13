@@ -1,5 +1,5 @@
 {
-    "name": "phpkit/base",
+    "name": "phpkit/basemodel",
     "description": "phpkit base类，基于phalcon",
     "keywords": [
         "core"
