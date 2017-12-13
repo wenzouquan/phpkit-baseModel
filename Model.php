@@ -13,10 +13,8 @@ class Model extends \Phalcon\Mvc\Model {
 		}
 
 	}
-	public function initialize($db = "") {
-		if ($db) {
-			$this->setConnectionService($db);
-		}
+	public function initialize() {
+	
 	}
 
 	public function getPk() {
